@@ -18,7 +18,7 @@ paths:
   /accounts:
     post:
       tags:
-        - "accounts"
+        - "Accounts"
       summary: "Create an account"
       description: "Registers a new account with the provided document number."
       requestBody:
@@ -51,7 +51,7 @@ paths:
   /accounts/{id}:
     get:
       tags:
-        - "accounts"
+        - "Accounts"
       summary: "Retrieve account information"
       description: "Fetches account information using the provided account ID."
       parameters:
@@ -90,7 +90,7 @@ paths:
   /transactions:
     post:
       tags:
-        - "transactions"
+        - "Transactions"
       summary: "Create a transaction"
       description: "Records a new transaction associated with an account."
       requestBody:
