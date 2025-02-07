@@ -6,7 +6,7 @@ info:
 
 servers:
   - url: "http://localhost:8080/v1"
-    description: "Local Development Server"
+    description: "Development Server"
 
 tags:
   - name: "Accounts"
