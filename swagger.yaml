@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   title: "Transactions Service API"
-  description: "API documentation for [transactions-service](https://github.com/ashwingopalsamy/transactions-service)."
+  description: "API documentation for [transactions-service](https://github.com/ashwingopalsamy/transactions-service) by [@ashwingopalsamy](https://github.com/ashwingopalsamy)."
   version: "0.0.1"
 
 servers:
